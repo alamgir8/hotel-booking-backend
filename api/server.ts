@@ -25,8 +25,6 @@ app.use('/uploads', express.static(path.join(__dirname, '../uploads')));
 
 // Default
 app.get('/api', (req: Request, res: Response) => {
-  console.log('app working properly!');
-
   res.status(201).json({ message: 'Welcome to Hotel Booking App' });
 });
 
