@@ -1,0 +1,144 @@
+[
+  {
+    "id": 1,
+    "name": "Andros",
+    "description": "The rooms of the hotel should be spacious enough to accommodate the guests and their luggage properly, it should not only be spacious but comfortable with all the necessities and luxuries like a tiny fridge having chocolates and champagne, etc. A large T.V with a king-size bed for comfortable sleep at night.",
+    "images": [
+      {
+        "image": "https://i.postimg.cc/XJZhKgGt/room-1.png"
+      },
+      {
+        "image": "https://i.postimg.cc/BQfyDHqw/room-2.png"
+      },
+      {
+        "image": "https://i.postimg.cc/wB4Zsrvh/room-3.png"
+      },
+      {
+        "image": "https://i.postimg.cc/QMhnP3Bg/room-4.png"
+      }
+    ],
+    "pricePerNight": "500",
+    "address": "94 Mallory Point",
+    "guestCapacity": "456",
+    "numOfBeds": 1,
+    "internet": false,
+    "breakfast": false,
+    "airConditioned": true,
+    "petsAllowed": false,
+    "roomCleaning": true,
+    "ratings": 4,
+    "numOfReviews": "550",
+    "category": "King",
+    "user": "6358fa9c76159ff5f016c14e"
+  },
+  {
+    "id": 2,
+    "name": "Perry",
+    "description": "The rooms of the hotel should be spacious enough to accommodate the guests and their luggage properly, it should not only be spacious but comfortable with all the necessities and luxuries like a tiny fridge having chocolates and champagne, etc. A large T.V with a king-size bed for comfortable sleep at night.",
+    "images": [
+      {
+        "image": "https://i.postimg.cc/BQfyDHqw/room-2.png"
+      },
+      {
+        "image": "https://i.postimg.cc/wB4Zsrvh/room-3.png"
+      },
+      {
+        "image": "https://i.postimg.cc/QMhnP3Bg/room-4.png"
+      }
+    ],
+    "pricePerNight": "250",
+    "address": "79 Maywood Lane",
+    "guestCapacity": "607",
+    "numOfBeds": 2,
+    "internet": false,
+    "breakfast": true,
+    "airConditioned": true,
+    "petsAllowed": false,
+    "roomCleaning": true,
+    "ratings": 2,
+    "numOfReviews": "400",
+    "category": "Single",
+    "user": "6358fa9c76159ff5f016c14e"
+  },
+  {
+    "id": 3,
+    "name": "Perl",
+    "description": "Left testicular pain",
+    "images": [
+      {
+        "image": "https://i.postimg.cc/wB4Zsrvh/room-3.png"
+      },
+      {
+        "image": "https://i.postimg.cc/QMhnP3Bg/room-4.png"
+      }
+    ],
+    "pricePerNight": "550",
+    "address": "203 Clove Court",
+    "guestCapacity": "586",
+    "numOfBeds": 3,
+    "internet": false,
+    "breakfast": true,
+    "airConditioned": false,
+    "petsAllowed": true,
+    "roomCleaning": true,
+    "ratings": 3,
+    "numOfReviews": "290",
+    "category": "King",
+    "user": "6358fa9c76159ff5f016c14e"
+  },
+  {
+    "id": 4,
+    "name": "Brit",
+    "description": "The rooms of the hotel should be spacious enough to accommodate the guests and their luggage properly, it should not only be spacious but comfortable with all the necessities and luxuries like a tiny fridge having chocolates and champagne, etc. A large T.V with a king-size bed for comfortable sleep at night.",
+    "images": [
+      {
+        "image": "https://i.postimg.cc/QMhnP3Bg/room-4.png"
+      }
+    ],
+    "pricePerNight": "350",
+    "address": "83702 Sloan Plaza",
+    "guestCapacity": "381",
+    "numOfBeds": 4,
+    "internet": true,
+    "breakfast": false,
+    "airConditioned": true,
+    "petsAllowed": true,
+    "roomCleaning": true,
+    "ratings": 4,
+    "numOfReviews": "240",
+    "category": "Twins",
+    "user": "6358fa9c76159ff5f016c14e"
+  },
+  {
+    "id": 5,
+    "name": "Nerta",
+    "description": "The rooms of the hotel should be spacious enough to accommodate the guests and their luggage properly, it should not only be spacious but comfortable with all the necessities and luxuries like a tiny fridge having chocolates and champagne, etc. A large T.V with a king-size bed for comfortable sleep at night.",
+    "images": [
+      {
+        "image": "https://i.postimg.cc/XJZhKgGt/room-1.png"
+      },
+      {
+        "image": "https://i.postimg.cc/BQfyDHqw/room-2.png"
+      },
+      {
+        "image": "https://i.postimg.cc/wB4Zsrvh/room-3.png"
+      },
+      {
+        "image": "https://i.postimg.cc/QMhnP3Bg/room-4.png"
+      }
+    ],
+    "pricePerNight": "500",
+    "address": "3105 Karstens Circle",
+    "guestCapacity": "180",
+    "numOfBeds": 5,
+    "internet": false,
+    "breakfast": false,
+    "airConditioned": false,
+    "petsAllowed": false,
+    "roomCleaning": true,
+    "ratings": 5,
+    "numOfReviews": "350",
+    "category": "King",
+    "user": "6358fa9c76159ff5f016c14e"
+  }
+]
