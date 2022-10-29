@@ -2,11 +2,11 @@
   "name": "hotel-book",
   "version": "1.0.0",
   "description": "Hotel Booking App Using MERN Stack With TypeScript & Redux",
-  "main": "server.ts",
+  "main": "index.ts",
   "scripts": {
-    "dev": "nodemon api/server.ts",
-    "start": "node api/server.ts",
-    "production": "NODE_ENV=production nodemon api/server.ts",
+    "dev": "nodemon api/index.ts",
+    "start": "node api/index.ts",
+    "production": "NODE_ENV=production nodemon api/index.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
