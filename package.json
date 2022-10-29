@@ -6,10 +6,10 @@
   "scripts": {
     "dev": "nodemon server.ts",
     "start": "node server.ts",
-    "production": "NODE_ENV=production nodemon server.ts",
+    "production": "NODE_ENV=production nodemon api/server.ts",
     "test": "echo \"Error: no test specified\" && exit 1",
     "data:import": "node seed.js",
-    "server": "ts-node-dev backend/server.ts",
+    "server": "ts-node-dev api/server.ts",
     "client": "npm start --prefix frontend"
   },
   "keywords": [],
