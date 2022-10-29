@@ -3,14 +3,14 @@ import { Application, Request, Response } from 'express';
 import cors from 'cors';
 import dotenv from 'dotenv';
 import path from 'path';
-import connectDB from './config/db';
-import { errorHandler, notFound } from './middlewares/errorMiddleware';
+import connectDB from '../config/db';
+import { errorHandler, notFound } from '../middlewares/errorMiddleware';
 
 // Routes
-import roomRoutes from './routes/roomRoutes';
-import userRoutes from './routes/userRoutes';
-import bookingRoutes from './routes/bookingRoutes';
-import uploadRoutes from './routes/uploadRoutes';
+import roomRoutes from '../routes/roomRoutes';
+import userRoutes from '../routes/userRoutes';
+import bookingRoutes from '../routes/bookingRoutes';
+import uploadRoutes from '../routes/uploadRoutes';
 
 const app: Application = express();
 
